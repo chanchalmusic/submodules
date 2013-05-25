@@ -1,3 +1,12 @@
 [submodule "facebook-php-sdk"]
-      path = facebook-php-sdk
-      url = git@github.com:facebook/facebook-php-sdk.git
+	path = facebook-php-sdk
+	url = git@github.com:facebook/facebook-php-sdk.git
+[submodule "rack"]
+	path = rack
+	url = git://github.com/chneukirchen/rack.git
+[submodule "facebook"]
+	path = facebook
+	url = https://github.com/facebook/facebook-php-sdk.git
+[submodule "faceboopk-php-sdk"]
+	path = faceboopk-php-sdk
+	url = git@github.com:facebook/facebook-php-sdk.git
